@@ -1,0 +1,74 @@
+C:\Users\Llorch\Documents\Visual Studio 2008\Projects\ProjectNoxus\ProjectNoxus\bin\Debug\ProjectNoxus.exe
+C:\Users\Llorch\Documents\Visual Studio 2008\Projects\ProjectNoxus\ProjectNoxus\bin\Debug\ProjectNoxus.pdb
+C:\Users\Llorch\Documents\Visual Studio 2008\Projects\ProjectNoxus\ProjectNoxus\bin\Debug\ProjectNoxus.xml
+C:\Users\Llorch\Documents\Visual Studio 2008\Projects\ProjectNoxus\ProjectNoxus\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Llorch\Documents\Visual Studio 2008\Projects\ProjectNoxus\ProjectNoxus\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Llorch\Documents\Visual Studio 2008\Projects\ProjectNoxus\ProjectNoxus\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Llorch\Documents\Visual Studio 2008\Projects\ProjectNoxus\ProjectNoxus\obj\Debug\ProjectNoxus.vbproj.GenerateResource.Cache
+C:\Users\Llorch\Documents\Visual Studio 2008\Projects\ProjectNoxus\ProjectNoxus\obj\Debug\ProjectNoxus.exe
+C:\Users\Llorch\Documents\Visual Studio 2008\Projects\ProjectNoxus\ProjectNoxus\obj\Debug\ProjectNoxus.xml
+C:\Users\Llorch\Documents\Visual Studio 2008\Projects\ProjectNoxus\ProjectNoxus\obj\Debug\ProjectNoxus.pdb
+C:\Users\Llorch\Desktop\Figuritas\ProjectNoxus\ProjectNoxus\obj\Debug\ProjectNoxus.exe
+C:\Users\Llorch\Desktop\Figuritas\ProjectNoxus\ProjectNoxus\obj\Debug\ProjectNoxus.xml
+C:\Users\Llorch\Desktop\Figuritas\ProjectNoxus\ProjectNoxus\obj\Debug\ProjectNoxus.pdb
+C:\Users\Llorch\Desktop\Figuritas\ProjectNoxus\ProjectNoxus\bin\Debug\ProjectNoxus.exe
+C:\Users\Llorch\Desktop\Figuritas\ProjectNoxus\ProjectNoxus\bin\Debug\ProjectNoxus.pdb
+C:\Users\Llorch\Desktop\Figuritas\ProjectNoxus\ProjectNoxus\bin\Debug\ProjectNoxus.xml
+C:\Users\Llorch\Desktop\Figuritas\ProjectNoxus\ProjectNoxus\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Llorch\Desktop\Figuritas\ProjectNoxus\ProjectNoxus\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Llorch\Desktop\Figuritas\ProjectNoxus\ProjectNoxus\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\Llorch\Desktop\Figuritas\ProjectNoxus\ProjectNoxus\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Llorch\Desktop\Figuritas\ProjectNoxus\ProjectNoxus\obj\Debug\ProjectNoxus.vbproj.GenerateResource.Cache
+C:\Users\Llorch\Desktop\ProjectNoxus\ProjectNoxus\obj\Debug\ProjectNoxus.exe
+C:\Users\Llorch\Desktop\ProjectNoxus\ProjectNoxus\obj\Debug\ProjectNoxus.xml
+C:\Users\Llorch\Desktop\ProjectNoxus\ProjectNoxus\obj\Debug\ProjectNoxus.pdb
+C:\Users\Llorch\Desktop\ProjectNoxus\ProjectNoxus\bin\Debug\ProjectNoxus.exe
+C:\Users\Llorch\Desktop\ProjectNoxus\ProjectNoxus\bin\Debug\ProjectNoxus.pdb
+C:\Users\Llorch\Desktop\ProjectNoxus\ProjectNoxus\bin\Debug\ProjectNoxus.xml
+C:\Users\Llorch\Desktop\ProjectNoxus\ProjectNoxus\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Llorch\Desktop\ProjectNoxus\ProjectNoxus\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Llorch\Desktop\ProjectNoxus\ProjectNoxus\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\Llorch\Desktop\ProjectNoxus\ProjectNoxus\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Llorch\Desktop\ProjectNoxus\ProjectNoxus\obj\Debug\ProjectNoxus.vbproj.GenerateResource.Cache
+C:\Users\Llorch\Documents\Visual Studio 2008\Projects\ProjectNoxus\ProjectNoxus\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\Llorch\Documents\Visual Studio 2008\Projects\ProjectNoxus\ProjectNoxus\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\Llorch\Documents\Visual Studio 2008\Projects\ProjectNoxus\ProjectNoxus\obj\Debug\WindowsApplication1.Form4.resources
+E:\Chen Espinosa Yu\ProjectNoxus\ProjectNoxus\obj\Debug\ProjectNoxus.exe
+E:\Chen Espinosa Yu\ProjectNoxus\ProjectNoxus\obj\Debug\ProjectNoxus.xml
+E:\Chen Espinosa Yu\ProjectNoxus\ProjectNoxus\obj\Debug\ProjectNoxus.pdb
+E:\Chen Espinosa Yu\ProjectNoxus\ProjectNoxus\bin\Debug\ProjectNoxus.exe
+E:\Chen Espinosa Yu\ProjectNoxus\ProjectNoxus\bin\Debug\ProjectNoxus.pdb
+E:\Chen Espinosa Yu\ProjectNoxus\ProjectNoxus\bin\Debug\ProjectNoxus.xml
+E:\Chen Espinosa Yu\ProjectNoxus\ProjectNoxus\obj\Debug\ResolveAssemblyReference.cache
+E:\Chen Espinosa Yu\ProjectNoxus\ProjectNoxus\obj\Debug\WindowsApplication1.Form1.resources
+E:\Chen Espinosa Yu\ProjectNoxus\ProjectNoxus\obj\Debug\WindowsApplication1.Form2.resources
+E:\Chen Espinosa Yu\ProjectNoxus\ProjectNoxus\obj\Debug\WindowsApplication1.Form3.resources
+E:\Chen Espinosa Yu\ProjectNoxus\ProjectNoxus\obj\Debug\WindowsApplication1.Form4.resources
+E:\Chen Espinosa Yu\ProjectNoxus\ProjectNoxus\obj\Debug\WindowsApplication1.Resources.resources
+E:\Chen Espinosa Yu\ProjectNoxus\ProjectNoxus\obj\Debug\ProjectNoxus.vbproj.GenerateResource.Cache
+G:\Chen Espinosa Yu\ProjectNoxus\ProjectNoxus\obj\Debug\ProjectNoxus.exe
+G:\Chen Espinosa Yu\ProjectNoxus\ProjectNoxus\obj\Debug\ProjectNoxus.xml
+G:\Chen Espinosa Yu\ProjectNoxus\ProjectNoxus\obj\Debug\ProjectNoxus.pdb
+G:\Chen Espinosa Yu\ProjectNoxus\ProjectNoxus\bin\Debug\ProjectNoxus.exe
+G:\Chen Espinosa Yu\ProjectNoxus\ProjectNoxus\bin\Debug\ProjectNoxus.pdb
+G:\Chen Espinosa Yu\ProjectNoxus\ProjectNoxus\bin\Debug\ProjectNoxus.xml
+G:\Chen Espinosa Yu\ProjectNoxus\ProjectNoxus\obj\Debug\ResolveAssemblyReference.cache
+G:\Chen Espinosa Yu\ProjectNoxus\ProjectNoxus\obj\Debug\WindowsApplication1.Form1.resources
+G:\Chen Espinosa Yu\ProjectNoxus\ProjectNoxus\obj\Debug\WindowsApplication1.Form2.resources
+G:\Chen Espinosa Yu\ProjectNoxus\ProjectNoxus\obj\Debug\WindowsApplication1.Form3.resources
+G:\Chen Espinosa Yu\ProjectNoxus\ProjectNoxus\obj\Debug\WindowsApplication1.Form4.resources
+G:\Chen Espinosa Yu\ProjectNoxus\ProjectNoxus\obj\Debug\WindowsApplication1.Resources.resources
+G:\Chen Espinosa Yu\ProjectNoxus\ProjectNoxus\obj\Debug\ProjectNoxus.vbproj.GenerateResource.Cache
+F:\Chen Espinosa Yu\ProjectNoxus\ProjectNoxus\obj\Debug\ProjectNoxus.exe
+F:\Chen Espinosa Yu\ProjectNoxus\ProjectNoxus\obj\Debug\ProjectNoxus.xml
+F:\Chen Espinosa Yu\ProjectNoxus\ProjectNoxus\obj\Debug\ProjectNoxus.pdb
+F:\Chen Espinosa Yu\ProjectNoxus\ProjectNoxus\bin\Debug\ProjectNoxus.exe
+F:\Chen Espinosa Yu\ProjectNoxus\ProjectNoxus\bin\Debug\ProjectNoxus.pdb
+F:\Chen Espinosa Yu\ProjectNoxus\ProjectNoxus\bin\Debug\ProjectNoxus.xml
+F:\Chen Espinosa Yu\ProjectNoxus\ProjectNoxus\obj\Debug\ResolveAssemblyReference.cache
+F:\Chen Espinosa Yu\ProjectNoxus\ProjectNoxus\obj\Debug\WindowsApplication1.Form1.resources
+F:\Chen Espinosa Yu\ProjectNoxus\ProjectNoxus\obj\Debug\WindowsApplication1.Form2.resources
+F:\Chen Espinosa Yu\ProjectNoxus\ProjectNoxus\obj\Debug\WindowsApplication1.Form3.resources
+F:\Chen Espinosa Yu\ProjectNoxus\ProjectNoxus\obj\Debug\WindowsApplication1.Form4.resources
+F:\Chen Espinosa Yu\ProjectNoxus\ProjectNoxus\obj\Debug\WindowsApplication1.Resources.resources
+F:\Chen Espinosa Yu\ProjectNoxus\ProjectNoxus\obj\Debug\ProjectNoxus.vbproj.GenerateResource.Cache
